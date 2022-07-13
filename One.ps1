@@ -1,3 +1,3 @@
-write-host "Р’РІРµРґРёС‚Рµ РёРјСЏ"
+write-host "Введите имя"
 $ex=read-host
-write-host "РџСЂРёРІРµС‚" $ex ", РєР°Рє РґРµР»Р°?"
+write-host "Привет" $ex ", как дела?"
